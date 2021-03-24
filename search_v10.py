@@ -1,16 +1,7 @@
 """
-This code is self made and not copied from any other website, app, etc.
+This code uses regular expression in python to solve the searching task using folder/files name inside the root directory...
 
-If you've no clear idea about what u doing to this, please don't save the changes.
-'Cause that would be so frustrating for others to use after your change.
-Recommended : Not to save changes
-This program is made to use just in Pksl art studio under some recommendation without
-changing anything in the source codes.
-What this Code do:
-	This will optionally create "All pksl found" folder in root dir. then search the
-	folders using regression expressions. Search will make sure to not to skip any
-	folder name while searching in paintings, photoshop, etc. in all pksl data(input path).
-	Then all of the found folder will be moved to "All pksl found" folder discussed earlier.
+You need to do some changes to use this code.
 
 """
 
